@@ -33,7 +33,7 @@ In this project users will be able to:
 
 ### Links👩🏾‍💻
 
-- Live Site URL: (https://frolicking-biscotti-f94d2f.netlify.app/)
+- Live Site URL: (https://maiannne-movieapp.netlify.app/)
 
 ## My process💭
 
