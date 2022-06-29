@@ -19,7 +19,7 @@ async function getMovies(url) {
 
 
 function showMovies(movies) {
-    // clears the main section for overwritting
+    // clears the main section for overwriting
     main.innerHTML = ''
 
     movies.forEach((movie) => {
