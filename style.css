@@ -118,3 +118,11 @@ a {
   text-decoration: none;
   cursor: pointer;
 }
+
+@media (max-width: 580px) {
+  body {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
